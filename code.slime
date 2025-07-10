@@ -1,0 +1,6 @@
+
+
+let hello = 3;
+let hi = 5;
+let hey = hello + hi;
+print(hey);
